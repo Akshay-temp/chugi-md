@@ -12,12 +12,7 @@
 
 ***
 
-<h1 align="center"> ABU-MD PLUGINS
-
- </h1>
  
-##   [`PLUGIN LIST`](https://github.com/Afx-Abu/PLUGIN)
-
 
 
 ## ```Heroku```
